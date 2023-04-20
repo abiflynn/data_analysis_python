@@ -75,24 +75,19 @@ Unaware of the Company Goals:
 - Are they a new company? Trying to acquire the customer base
 
 Missing Information:
-- Profits / Cost Price / Margins 
-Although we can see peak in revenue we are unaware on how discounts are impacting company profits.
+- Profits / Cost Price / Margins
+  - Although we can see peak in revenue we are unaware on how discounts are impacting company profits.
 
 - Customer Information 
-We do not have customer information therefore we cannot see if they are returning or being driven to the site with discounts.
+  - We do not have customer information therefore we cannot see if they are returning or being driven to the site with discounts.
 
 Data Collection Improvements:
 
-- Prices 
-To be rejected if entered incorrectly (with two decimals)
-- Remove/ Reject Duplicates
-When updating product-portfolio
-- Datetime-Format
-Automatically import date-inputs as datetime-format
-- Column Names 
-Columns to have the same name if they contain the same information
-- Database 
-Data to be in a Database not in 4 CSV files  
+- Prices : To be rejected if entered incorrectly (with two decimals)
+- Remove/ Reject Duplicates: When updating product-portfolio
+- Datetime-Format: Automatically import date-inputs as datetime-format
+- Column Names: Columns to have the same name if they contain the same information
+- Database: Data to be in a Database not in 4 CSV files  
 
 **2.2.2 It is Beneficial to Discount Products?** 
 
