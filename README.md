@@ -1,6 +1,6 @@
 # data_analysis_python
 
-**Data-Driven Businesses with Python, Pandas and Matplotlib**
+**Data-Driven Businesses with Python, Pandas Matplotlib, Seaborn**
 
 **1. Project Objectives & Overview**
 
