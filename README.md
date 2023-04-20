@@ -22,3 +22,7 @@ Working as a data analyst, I analysed the data to help resolve the ongoing debat
 - Seaborn
 
 **2. Project Outcome** 
+
+**2.1 Findings**
+
+**2.2 Recommendations** 
