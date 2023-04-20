@@ -1,4 +1,4 @@
-# Data-Driven Businesses with Python, Pandas Matplotlib, Seaborn
+# Data Analysis: Is it Beneficial to Discount Products?
 
 ## 1. Project Objectives & Overview
 
